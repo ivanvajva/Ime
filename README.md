@@ -1,3 +1,3 @@
 # Ime
-<img alt="Stylized image of the Minecraft Bedrock Editor" src="./cerambit">
+<img alt="Stylized image of the Minecraft Bedrock Editor" src="./Cerambit.jped">
 
